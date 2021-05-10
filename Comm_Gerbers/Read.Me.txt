@@ -1,0 +1,21 @@
+
+Files and Descriptions are below:
+
+RFB-B_Cu.gbr - Back Copper Layer
+RFB-B_Mask.gbr - Back Solder Mask
+RFB-B_Paste.gbr - Back Solder Paste
+RFB-B_SilkS.gbr - Back Silk Screen
+RFB-Edge_Cuts.gbr - Boundries of Board and Mounting Screw Holes
+RFB-F_Cu.gbr - Front Copper Layer
+RFB-F_Mask.gbr - Front Solder Mask
+RFB-F_Paste.gbr - Front Solder Paste
+RFB-F_SilkS.gbr - Front Silk Screen
+RFB-job.gbrjob - gbrjob file with all layers overlapping
+RFB-NPTH.drl - Not sure but it was generated with other drill file so I am including it
+RFB-PTH.drl - NC Drill File with Tool Header
+
+
+Contact Information:
+Name: Matthew Love
+Email: 20matthewl@gmail.com
+Phone: 713-842-0109
